@@ -1,16 +1,13 @@
-## Hi there 👋
+# 7oltan
 
-<!--
-**7oltan/7oltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hellow there silly :3
+### im 7oltan you already know that
 
-Here are some ideas to get you started:
+### -----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### i code mostly haxe but i know some little frag and lua cant say i perfected frag but yk... pretty good
+### i try to keep my code clean for other coders
+### im sorry if i looked stupid somewhere on github and you clicked on my profile to see this, i still dont know how to use github as im writing this lmao
+
+### anyways if you wanna talk to me im CRAVING human interactions so please talk to me even if its something stupid, i use discord its the same as my username
+### also if you want me to help on a piece of code you WROTE then ill help, if you want me to help in making code for you i wont :3
